@@ -22,7 +22,6 @@ for line in lines:
 f = open("D:\\拼音输入法作业\\sina_news_gbk\\2016-02.txt")
 lines = f.readlines()
 print(len(lines))
-.
 f.close()
 f = open("D:\\拼音输入法作业\\sina_news_gbk\\2016-04.txt")
 lines.extend(f.readlines())
