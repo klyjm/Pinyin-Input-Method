@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d59c30b-0e38-4906-8f1b-c599ba6244f0" name="Default Changelist" comment="" />
+    <list default="true" id="4d59c30b-0e38-4906-8f1b-c599ba6244f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/readfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typefile" beforeDir="false" afterPath="$PROJECT_DIR$/typefile" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,45 +13,61 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Pinyin_Input_Method$readfile.coverage" NAME="readfile Coverage Results" MODIFIED="1541359062696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pinyin_Input_Method$readfile.coverage" NAME="readfile Coverage Results" MODIFIED="1542556341247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1953822081">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="35" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="12" />
+          <entry key="project.open.time.5" value="16" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+          <entry key="git.branch.checkout.revision" value="1" />
           <entry key="git.branch.compare" value="1" />
-          <entry key="git.branch.merge" value="1" />
-          <entry key="git.branch.rebase" value="1" />
-          <entry key="git.branch.rename" value="1" />
+          <entry key="git.branch.merge" value="3" />
+          <entry key="git.branch.rebase" value="2" />
+          <entry key="git.branch.rename" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="init" value="7" />
+          <entry key="newtypes" value="2" />
+          <entry key="py" value="6" />
+          <entry key="typefile" value="13" />
+          <entry key="types" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1845" />
+          <entry key="Python Console" value="91" />
+          <entry key="py" value="11154" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1845" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="11245" />
         </counts>
       </usages-collector>
     </session>
@@ -57,10 +77,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="132" column="17" lean-forward="true" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
+            <state relative-caret-position="374">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding>
-                <marker date="1541359924065" expanded="true" signature="2540:2799" ph="..." />
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1542556341236" expanded="true" signature="10329:10334" ph="..." />
+                <marker date="1542556341236" expanded="true" signature="10329:14369" ph="..." />
+                <marker date="1542556341236" expanded="true" signature="11195:14369" ph="..." />
+                <marker date="1542556341236" expanded="true" signature="12165:14369" ph="..." />
+                <marker date="1542556341236" expanded="true" signature="13395:14369" ph="..." />
               </folding>
             </state>
           </provider>
@@ -72,9 +97,13 @@
     <option name="ONTO" value="refs/heads/klyjm" />
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2ccf635233559e4ac82de94dd4ec92434d174360" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,9 +118,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="285" />
-    <option name="y" value="-16" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="395" />
+    <option name="y" value="400" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -100,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,14 +140,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="tolist&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,6 +211,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.readfile" />
+        <item itemvalue="Python.readfile" />
+        <item itemvalue="Python.readfile" />
       </list>
     </recent_temporary>
   </component>
@@ -205,32 +237,40 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16176471" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.3991323" />
+      <window_info anchor="bottom" x="22" y="368" width="1876" height="304" id="Run" order="2" sideWeight="0.49626866" weight="0.3264642" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.39625585" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917318" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.32839313" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50373137" side_tool="true" weight="0.32839313" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32917318" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946696" weight="0.24336973" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info active="true" anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" visible="true" weight="0.22814499" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" visible="true" weight="0.15580286" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,13 +283,97 @@
     <MESSAGE value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;project version=&quot;4&quot;&gt;&#10;  &lt;component name=&quot;PySciProjectComponent&quot;&gt;&#10;    &lt;option name=&quot;PY_SCI_VIEW&quot; value=&quot;true&quot; /&gt;&#10;    &lt;option name=&quot;PY_SCI_VIEW_SUGGESTED&quot; value=&quot;true&quot; /&gt;&#10;  &lt;/component&gt;&#10;&lt;/project&gt;" />
     <option name="LAST_COMMIT_MESSAGE" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;project version=&quot;4&quot;&gt;&#10;  &lt;component name=&quot;PySciProjectComponent&quot;&gt;&#10;    &lt;option name=&quot;PY_SCI_VIEW&quot; value=&quot;true&quot; /&gt;&#10;    &lt;option name=&quot;PY_SCI_VIEW_SUGGESTED&quot; value=&quot;true&quot; /&gt;&#10;  &lt;/component&gt;&#10;&lt;/project&gt;" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>types[7496]['count']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>types[7495]['count']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>types[7497]['count']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lettercount[7497]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lettercount[7496]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>types[7496]['letter']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lettercount[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>max(p[7496])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>max(p[7497])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sphinx/ext/todo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typefile">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtypes">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="183238">
+          <caret line="8329" column="2" selection-start-line="8329" selection-start-column="2" selection-end-line="8329" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/readfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="132" column="17" lean-forward="true" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
+        <state relative-caret-position="374">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
-            <marker date="1541359924065" expanded="true" signature="2540:2799" ph="..." />
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1542556341236" expanded="true" signature="10329:10334" ph="..." />
+            <marker date="1542556341236" expanded="true" signature="10329:14369" ph="..." />
+            <marker date="1542556341236" expanded="true" signature="11195:14369" ph="..." />
+            <marker date="1542556341236" expanded="true" signature="12165:14369" ph="..." />
+            <marker date="1542556341236" expanded="true" signature="13395:14369" ph="..." />
           </folding>
         </state>
       </provider>
